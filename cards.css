@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: brown;
+    border-radius: 5pt;
+    flex: 1 1 100px;
+    padding: 2pt;
+}
